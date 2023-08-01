@@ -1,2 +1,2 @@
 # Go-Dapa
-Simple Da Pa Checker Build With Golang
+Simple Da Pa Checker Build With Golang Credit @zeruproject
