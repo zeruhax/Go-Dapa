@@ -22,6 +22,7 @@ type Response struct {
 
 func main() {
 	var list string
+	fmt.Println("Credit @zeruproject")
 	fmt.Print("Your list: ")
 	fmt.Scanln(&list)
 	CheckDapa(list)
